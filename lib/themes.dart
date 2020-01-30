@@ -1,8 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-/// Ref: https://github.com/flutter/flutter/blob/master/examples/flutter_gallery/lib/gallery/themes.dart
-
 final setLightTheme = _buildLightTheme();
 final setDarkTheme = _buildDarkTheme();
 
